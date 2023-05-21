@@ -32,7 +32,7 @@ export default function Card() {
                   href={exercise.videoLink}
                   target="_blank"
                   rel="noreferrer"
-                  className="text-indigo-800 hover:text-indigo-600 font-semibold"
+                  className="text-indigo-800 hover:text-indigo-600 "
                 >
                   Watch video
                 </a>
